@@ -1,0 +1,35 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<UserDB>
+  <Administrators>
+    <Administrator>
+      <login>KF</login>
+      <firstname>Kevin</firstname>
+      <surname>Flynn</surname>
+      <pwd>@tron</pwd>
+      <Id>1</Id>
+    </Administrator>
+    <Administrator>
+      <login>KR</login>
+      <firstname>Keanu</firstname>
+      <surname>Reeves</surname>
+      <pwd>redpill</pwd>
+      <Id>2</Id>
+    </Administrator>
+  </Administrators>
+  <Teachers>
+    <Teacher>
+      <login>MF</login>
+      <firstname>Morgan</firstname>
+      <surname>Freeman</surname>
+      <pwd>iknowall</pwd>
+      <Id>1002</Id>
+    </Teacher>
+    <Teacher>
+      <login>GS</login>
+      <firstname>Grand</firstname>
+      <surname>Schtroumpf</surname>
+      <pwd>salsepareille</pwd>
+      <Id>1001</Id>
+    </Teacher>
+  </Teachers>
+</UserDB>
